@@ -2,6 +2,7 @@
 UI app using an online web API to get a list of Posts, the app is using:
 
 React
+
 Redux
 
 ### Getting Started
